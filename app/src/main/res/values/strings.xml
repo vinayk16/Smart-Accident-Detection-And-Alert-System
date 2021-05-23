@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Accident Detection And Alert System</string>
+    <string name="seron">SERVICE ACTIVATE</string>
+    <string name="womansafety">WOMAN SAFETY</string>
+    <string name="abt">ABOUT</string>
+    <string name="enter_emergency_contact_number">ENTER EMERGENCY CONTACT NUMBER</string>
+    <string name="contact_number_1">Contact Number 1</string>
+    <string name="contact_number_2">Contact Number 2</string>
+    <string name="contact_number_3">Contact Number 3</string>
+    <string name="enter_blood_group">Enter Blood Group</string>
+    <string name="save">SAVE</string>
+    <string name="load">LOAD</string>
+    <string name="android_detection_and_alert_system">ANDROID DETECTION AND ALERT SYSTEM</string>
+    <string name="abtcontent">"This app helps in emergency case during vehicle accident it immediately informing the Users emergency contacts about the current location by sending them SMS."</string>
+    <string name="sending_sms_to_the_emergeny_contact">SENDING SMS TO THE EMERGENY CONTACT</string>
+    <string name="abort">ABORT</string>
+    <string name="stop_service">STOP SERVICE</string>
+    <string name="exit">EXIT</string>
+</resources>
